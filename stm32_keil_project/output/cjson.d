@@ -1,0 +1,10 @@
+.\output\cjson.o: hardware\src\cJSON.c
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\string.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\math.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\float.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\limits.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\ctype.h
+.\output\cjson.o: .\hardware\inc\cJSON.h
+.\output\cjson.o: D:\software\work_software\keil5\software\ARM\ARMCC\Bin\..\include\stddef.h
